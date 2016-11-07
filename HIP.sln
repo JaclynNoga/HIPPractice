@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIP.WebUI", "HIP.WebUI\HIP.WebUI.csproj", "{076D17A7-22F2-4FA5-BC86-A0E2B19F3731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIP.Dom", "HIP.Dom\HIP.Dom.csproj", "{D0F5C0ED-0EC0-4ACC-8E95-CD42C8260824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{076D17A7-22F2-4FA5-BC86-A0E2B19F3731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076D17A7-22F2-4FA5-BC86-A0E2B19F3731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076D17A7-22F2-4FA5-BC86-A0E2B19F3731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076D17A7-22F2-4FA5-BC86-A0E2B19F3731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F5C0ED-0EC0-4ACC-8E95-CD42C8260824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F5C0ED-0EC0-4ACC-8E95-CD42C8260824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F5C0ED-0EC0-4ACC-8E95-CD42C8260824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F5C0ED-0EC0-4ACC-8E95-CD42C8260824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
